@@ -153,7 +153,23 @@ li.active a {
 }
 
 @media screen and (max-width: 600px) {
-  div.example {
-    display: none;
+  h1 { font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+    font-size: 2.5em;
+    margin: 20px auto 10px auto;
+    color: rgb(78, 39, 12);
   }
-}
+  
+  h2 { font-family: 'Poppins', sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+    color: rgb(78, 39, 12);
+      margin: 10px auto 25px auto;
+  }
+  
+  p{ font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+      line-height: 1.6;
+      color: rgb(34, 144, 177);
+  }
+  }
