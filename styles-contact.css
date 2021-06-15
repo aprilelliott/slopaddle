@@ -155,7 +155,7 @@ li.active a {
 @media screen and (max-width: 480px) {
 	
 .center {
-  width: 400px;
+  width: 300px;
 	padding: 2%;
   margin: 0px auto;
 
@@ -188,6 +188,10 @@ li.active a {
 li a {
   color: rgb(78, 39, 12);
   font-weight: bold;
+}
+li a:hover {
+	font-size: 1.2em;
+	background: #40bcc0;
 }
 
   }
