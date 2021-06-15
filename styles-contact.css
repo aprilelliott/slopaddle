@@ -155,8 +155,8 @@ li.active a {
 @media screen and (max-width: 480px) {
 	
 .center {
-  width: 200px;
-	padding: 5%;
+  width: 4000px;
+	padding: 2%;
   margin: 0px auto;
 
 	text-align: center;
@@ -164,24 +164,24 @@ li.active a {
 
    
 #logo {
-    width: 100px;
+    width: 300px;
 }
   h1 { font-family: 'Poppins', sans-serif;
     font-weight: bolder;
-    font-size: 2.5em;
+    font-size: 2em;
     margin: 20px auto 10px auto;
     color: rgb(78, 39, 12);
   }
   
   h2 { font-family: 'Poppins', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bolder;
     color: rgb(78, 39, 12);
       margin: 10px auto 25px auto;
   }
   
   p{ font-family: 'Montserrat', sans-serif;
-    font-size: 2em;
+    font-size: 1.5em;
       line-height: 1.6;
       color: rgb(34, 144, 177);
   }
