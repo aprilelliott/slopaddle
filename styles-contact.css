@@ -189,11 +189,19 @@ nav {
   margin: 10px;
 }
 li {
-  height: 30px;
+  height: 25px;
   float:none;
   margin-right: 0px;
   padding: 0px;
 }
+
+.location li {
+  height: 50px;
+  float:none;
+  margin-right: 0px;
+  padding: 0px;
+}
+	
 li a {
   color: rgb(78, 39, 12);
   font-weight: bold;
