@@ -153,6 +153,14 @@ li.active a {
 }
 
 @media screen and (max-width: 480px) {
+	
+.center {
+  width: 200px;
+	padding: 2%;
+  margin: 0px auto;
+
+	text-align: center;
+}
   h1 { font-family: 'Poppins', sans-serif;
     font-weight: bolder;
     font-size: 2.5em;
@@ -172,4 +180,5 @@ li.active a {
       line-height: 1.6;
       color: rgb(34, 144, 177);
   }
+
   }
