@@ -183,7 +183,11 @@ li.active a {
   p{ font-family: 'Montserrat', sans-serif;
     font-size: 1.5em;
       line-height: 1.6;
-      color: rgb(34, 144, 177);
+      color: rgb(78, 39, 12);
   }
+li a {
+  color: rgb(78, 39, 12);
+  font-weight: bold;
+}
 
   }
