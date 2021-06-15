@@ -155,9 +155,7 @@ li.active a {
 @media screen and (max-width: 480px) {
 	
 .center {
-  width: 200px;
 	padding: 10%;
-  margin: 0px auto;
 
 	text-align: center;
 }
