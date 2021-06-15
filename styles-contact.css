@@ -188,6 +188,12 @@ li.active a {
 nav {
   margin: 10px;
 }
+li {
+  height: 100px;
+  float:none;
+  margin-right: 0px;
+  padding: 0px;
+}
 li a {
   color: rgb(78, 39, 12);
   font-weight: bold;
