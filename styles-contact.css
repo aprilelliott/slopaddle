@@ -185,6 +185,9 @@ li.active a {
       line-height: 1.6;
       color: rgb(78, 39, 12);
   }
+nav {
+  margin: 10px;
+}
 li a {
   color: rgb(78, 39, 12);
   font-weight: bold;
